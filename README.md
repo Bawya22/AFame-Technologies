@@ -1,4 +1,3 @@
-Data Analysis and Dashboard visualization using PowerBI
-Name of the Project : Sales Data Analysis
+Data Analysis and Dashboard visualization using PowerBI -Sales Data Analysis
 
 
